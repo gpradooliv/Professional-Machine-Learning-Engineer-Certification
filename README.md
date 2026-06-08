@@ -1,4 +1,4 @@
-# Career Transition Portfolio — AI/ML Engineer com foco em Google Cloud PMLE
+# Career Portfolio — AI/ML Engineer com foco em Google Cloud PMLE
 
 Repositório-vitrine para organizar meu plano de transição profissional, a preparação para a certificação **Google Cloud Professional Machine Learning Engineer (PMLE)** e os links para projetos públicos independentes.
 
