@@ -6,9 +6,9 @@ Repositório-vitrine para organizar minha evolução profissional, a preparaçã
 
 | Projeto | Objetivo | Status | Repositório |
 |---|---|---|---|
-| Student Modeling on GCP | ML clássico, BigQuery ML, serving e monitoramento | Planejado | `INSERIR_LINK` |
-| IRRF LLM Demo | LLM + regras determinísticas + observabilidade | Planejado | `INSERIR_LINK` |
-| Document Rule Extraction Demo | Extração estruturada, versionamento e human-in-the-loop | Planejado | `INSERIR_LINK` |
+| Student Modeling on GCP | ML clássico, BigQuery ML, serving e monitoramento | Planejado | [https://github.com/gpradooliv/student-modeling-gcp] |
+| IRRF LLM Demo | LLM + regras determinísticas + observabilidade | Planejado | [https://github.com/gpradooliv/irrf-llm-demo] |
+| Document Rule Extraction Demo | Extração estruturada, versionamento e human-in-the-loop | Planejado | [https://github.com/gpradooliv/document-rule-extraction-demo] |
 
 ## Como usar este repositório
 
